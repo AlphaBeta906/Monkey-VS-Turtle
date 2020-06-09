@@ -1,4 +1,4 @@
-# Monkey VS Turtle <strong>Dev</strong>elopment <strong>Log</strong>
+# Monkey VS Turtle Development Log (Devlog for short)
 
 ## 28/05/2020
 Game first created
