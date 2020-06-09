@@ -11,9 +11,9 @@ If you want to have an advantage with the ATK, start off as a monkey. If you wan
 ## How do I download it?
 Currently, it is not recommended to download the game for it isn't finished. A .exe file will be made after the game is 100% completed.
 
-If you want to test it out, you can learn more in the testing.txt file.
+If you want to test it out, you can learn more in the testing.md file.
 
 ## Other info
-To see the development log, check out the devlog.txt file.
+To see the development log, check out the devlog.md file.
 
 This is also my first game as a python programmer, so prepare for some awfully written code. I am aiming to refine it when I complete everything.
