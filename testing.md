@@ -1,5 +1,5 @@
 # How to download the testing version
-To download the unfinished, current version (which is, I warn you, a bit unstable with the code) you must have downloaded Python 3.7 or higher. If you don't have it, scroll down to the "Download Python 3.7 section".
+To download the unfinished, current version (which is, I warn you, a bit unstable with the code) you must have downloaded Python 3.7 or higher. If you don't have it, scroll down to the "Download Python 3.7" section.
 
 ## Download Python 3.7
 Step 1. Go to www.python.org/downloads/. It will automatically determine your OS you are using. <br>
