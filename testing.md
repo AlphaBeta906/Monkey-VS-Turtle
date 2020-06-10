@@ -3,7 +3,7 @@ To download the unfinished, current version (which is, I warn you, a bit unstabl
 
 ## Download Python 3.7
 Step 1. Go to www.python.org/downloads/. It will automatically determine your OS you are using. <br>
-Step 2. Download any Python version which is 3.7 or later. Do not confused 2.7 with 3.7! <br>
+Step 2. Download any Python version which is 3.7 or later. Do not confuse 2.7 with 3.7! <br>
 
 ## Setting up a folder and getting the current files
 Step 1. Create a folder anywhere on your computer. This folder is necessary so the game can locate its files. <br>
